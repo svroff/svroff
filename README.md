@@ -1,4 +1,10 @@
-### Hi there 👋
+### ✨ Hello everyone! ✨
+
+Mi nombre es **Sergi Vicente** y soy estudiante de programación full stack. Actualmente estoy asistiendo al Bootcamp de *Undefined* y también estoy formándome en backend con *Python*.
+
+La idea es acabar formándome como full stack con **Javascript** (React, angular, node, etc...) y **Python** (Flask, Django, etc...).
+
+
 
 <!--
 **svroff/svroff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
